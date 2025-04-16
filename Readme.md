@@ -21,15 +21,15 @@ A sleek and modern **React Native mobile app** built using **Expo**, showcasing 
 
 ## 🛠️ Tech Stack
 
-| Layer | Technology |
-|-------|------------|
-| Mobile Framework | React Native (Expo) |
-| API Integration | TMDB API |
-| Navigation | React Navigation |
-| Styling | StyleSheet (custom theming) |
-| State Management | React Hooks (`useState`, `useEffect`) |
-| Backend (Optional) | Appwrite |
-| Animation | Lottie (optional) |
+| Layer              | Technology                            |
+| ------------------ | ------------------------------------- |
+| Mobile Framework   | React Native (Expo)                   |
+| API Integration    | TMDB API                              |
+| Navigation         | React Navigation                      |
+| Styling            | StyleSheet (custom theming)           |
+| State Management   | React Hooks (`useState`, `useEffect`) |
+| Backend (Optional) | Appwrite                              |
+| Animation          | Lottie (optional)                     |
 
 ---
 
@@ -40,3 +40,12 @@ A sleek and modern **React Native mobile app** built using **Expo**, showcasing 
 ```bash
 git clone https://github.com/lohithpuvvala/rn_mobile_movie_app.git
 cd rn_mobile_movie_app
+
+---
+
+### 2. Basic Setup
+- Install WebStorm (Non Commercial Edition)
+- Install Android Studio
+- Create React App with Expo Framework
+- Create an Account in Appwrite
+```
